@@ -1,6 +1,6 @@
 Hi there 👋
 
-**Tech Community Catalyst | Strategy Architect | Empowering Leaders
+Tech Community Catalyst | Strategy Architect | Empowering Leaders
 
 Bridging the gap between technology and people. I'm passionate about:
 - Fostering inclusive tech communities
