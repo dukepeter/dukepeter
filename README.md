@@ -1,6 +1,5 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
 **Tech Community Catalyst | Strategy Architect | Empowering Leaders
 
 Bridging the gap between technology and people. I'm passionate about:
@@ -25,4 +24,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
